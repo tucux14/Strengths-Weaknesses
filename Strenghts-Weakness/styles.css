@@ -1,0 +1,35 @@
+h1 { 
+    color: White;
+    font-size: 70px;
+    top: 10px; left: 540px;
+    background-color: darkred;
+    margin-right:36%;
+    margin-left:27%
+}
+h2 {
+    font-size: 50px;
+    padding-top: 65px;
+    text-align:center
+  
+}
+#green{
+    color: orange;
+}
+
+.red{
+    color: red;
+}
+
+body{
+    background-color: white
+}
+body{
+    background-image: url("Usc Football.jpg");
+    background-repeat: repeat-x; background-size: 400px;
+}
+#btext{
+float: left; height: 219px;
+}
+#ftext{
+    float: right; height: 219px;
+}
